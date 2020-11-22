@@ -1,4 +1,4 @@
-# verilog批量该变量名工具
+# verilog批量改变量名工具
 用来骗过只考虑字符是否相同的查重
 
 在LexicalAnalyser.cpp文件的LexicalAnalyser::ExchangeInList()函数中定义自己的规则，ID指变量，INTERFACE是接口。
@@ -14,6 +14,6 @@ lizi LZ
 
 保留字可能没有加全，当前版本不识别双引号。
 
-解释权著作权全部归@Noirebao。
+解释权著作权全部归@Noirebao<https://github.com/Noirebao/Noirebao>。
 
 祝广大受难朋友早日脱离苦海。
