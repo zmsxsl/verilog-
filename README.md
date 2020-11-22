@@ -14,6 +14,6 @@ lizi LZ
 
 保留字可能没有加全，当前版本不识别双引号。
 
-解释权著作权全部归@Noirebao<https://github.com/Noirebao/Noirebao>。
+解释权著作权全部归[@Noirebao](https://github.com/Noirebao/Noirebao)。
 
 祝广大受难朋友早日脱离苦海。
