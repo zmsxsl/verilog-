@@ -17,3 +17,5 @@ lizi LZ
 解释权著作权全部归[@Noirebao](https://github.com/Noirebao/Noirebao)。
 
 祝广大受难朋友早日脱离苦海。
+
+好耶！
